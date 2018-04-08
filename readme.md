@@ -31,4 +31,6 @@ Ce script extrait les données du PDF et génère la structure suivante:
 ```
 
 ## Visualisation des données
-Quelques graphiques sont aussi disponibles. Voir les [sources sur github](https://github.com/millette/inventaire-ll-gouv-qc) et cette [démonstration préliminaire](https://src-yusucsprbo.now.sh/).
+Quelques graphiques sont aussi disponibles. Voir les [sources sur github](https://github.com/millette/inventaire-ll-gouv-qc) et cette [démonstration préliminaire](https://src-eyvrsjzerx.now.sh/).
+
+Partagez vos découvertes sur le [forum](https://forumsdulibre.quebec/t/inventaire-2017-des-logiciels-libres-utilises-dans-l-administration-publique-quebecoise/408?u=millette).
